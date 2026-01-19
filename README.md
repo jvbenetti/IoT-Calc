@@ -1,4 +1,4 @@
-# 📡 IoT-Calc
+# 📡 IoT-Calc (Refatorar)
 
 O **IoT-Calc** é uma aplicação web para análise e cálculo de dados geoespaciais provenientes de dispositivos IoT.  
 O sistema processa e exibe informações de localização, permitindo rastreamento em tempo real com alta precisão.
